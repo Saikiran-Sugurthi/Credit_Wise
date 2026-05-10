@@ -165,8 +165,8 @@ After feature engineering with polynomial terms for DTI Ratio and Credit Score:
 
 ## 🙋 Author
 
-**Your Name**  
-[GitHub](https://github.com/Saikiran-Sugurthi) • [LinkedIn](https://linkedin.com/in/sai-kiran-sugurthi-1a267830b)
+
+ [LinkedIn](https://linkedin.com/in/sai-kiran-sugurthi-1a267830b)
 
 ---
 
